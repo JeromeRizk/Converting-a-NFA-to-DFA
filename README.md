@@ -14,8 +14,6 @@ Assumptions
 will have 5 key-value pairs corresponding to the 5-tuple used to represent the
 NFA.
 
-2.  Number of states in inout.json must be less than 20 to get a fast output.
-
 Code snippets 
 -------------
 
